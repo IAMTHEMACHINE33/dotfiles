@@ -123,3 +123,4 @@ complete -d cd
 # alias
 alias n12='n exec 12'
 alias n16='n exec 16'
+alias n18='n exec 18'
