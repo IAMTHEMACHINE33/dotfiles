@@ -1,0 +1,7 @@
+[user]
+	name = IAMTHEMACHINE33
+	email = iamthemachine33@gmail.com
+[safe]
+	directory = /home/machine/coderuple/pos/Pos-Backend
+[alias]
+	logtree = log --graph --decorate --pretty=oneline --abbrev-commit --all
